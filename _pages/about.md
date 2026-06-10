@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Developer · Creator · Problem Solver
+subtitle: Linguistics · Cognitive Science · Neurolinguistics
 
 profile:
   align: right
@@ -28,13 +28,13 @@ latest_posts:
   limit: 3
 ---
 
-안녕하세요, **김도현**입니다. 👋
+I am **Dohyeon Kim**, a linguistic researcher with interests spanning sociolinguistics, cognitive systems, and the emerging intersection of linguistics and cognitive neuroscience.
 
-Hi, This is Dohyeon Kim. As a linguistic researcher
+My research focuses on three areas:
 
-1. Sociolinguistics: linguistic inequality and language variation in multicultural society, especially in AI-era
-2. Cognitive Systems: the relationship between linguistic and non-linguistic cogntive abilities
-3. Emerging interest: neurolinguistic approaches to cognitive linguistics - particularly whether Lakoffian hypothesis on conceptual metaphor find support in cognitive neuroscience
+1. **Sociolinguistics** — linguistic inequality and language variation in multicultural societies, with particular attention to the AI era
+2. **Cognitive Systems** — the relationship between linguistic and non-linguistic cognitive abilities
+3. **Neurolinguistics** *(emerging interest)* — whether Lakoffian hypotheses on conceptual metaphor find support in cognitive neuroscience
 
 ---
 
