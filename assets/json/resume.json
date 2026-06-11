@@ -7,8 +7,8 @@
     "phone": "",
     "summary": "Linguistic researcher with interests in sociolinguistics, discourse analysis, and the neural basis of language and cognition.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Etobicoke, Toronto, Ontario",
+      "postalCode": "M9C 3N5",
       "city": "Toronto",
       "countryCode": "CA",
       "region": "Ontario"
@@ -77,7 +77,7 @@
   ],
   "awards": [],
   "certificates": [],
-  "publications": [
+  "Writing_Samples": [
     {
       "name": "A Study on the Discourse Marker nayna in Gyeongsang Dialect",
       "publisher": "Chungnam National University (Undergraduate Thesis)",
