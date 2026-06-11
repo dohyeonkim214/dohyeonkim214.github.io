@@ -10,8 +10,8 @@ profile:
   image_circular: true
   more_info: >
     <p style="font-size:0.85rem; color:var(--global-text-color-light);">
-      📍 Seoul, South Korea<br>
-      ✉️ <a href="mailto:you@example.com">Contact me</a>
+      📍 Etobicoke, Ontario, Canada<br>
+      ✉️ <a href="mailto:dohyeonkim55@gmail.com">Contact me</a>
     </p>
 
 selected_papers: false
