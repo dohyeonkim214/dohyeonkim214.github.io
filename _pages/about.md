@@ -10,8 +10,8 @@ profile:
   image_circular: true
   more_info: >
     <p style="font-size:0.85rem; color:var(--global-text-color-light);">
-      📍 Etobicoke, Ontario, Canada<br>
-      ✉️ <a href="mailto:dohyeonkim55@gmail.com">Contact me</a>
+      📍 Toronto, Canada<br>
+      ✉️ <a href="mailto:dohyeonkim55@gmail.com">dohyeonkim55@gmail.com</a>
     </p>
 
 selected_papers: false
